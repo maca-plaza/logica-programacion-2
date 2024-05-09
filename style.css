@@ -1,0 +1,10 @@
+.content {
+    display: flex;
+    justify-content: space-between;
+    padding: 25% 5%;
+}
+
+.container-input {
+    display: flex;
+    flex-direction: column;
+}
